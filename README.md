@@ -1,29 +1,28 @@
 
+👋 Hi there! I'm **Ali Eqbali**, known as **Kaspian** in the coding world.
+Since childhood, I've dreamed of building applications and have a strong passion for learning and creating innovative solutions with **Flutter** and **Python**.
+My experience with Python and core development concepts paved the way for my entry into the exciting world of mobile development with Flutter.
 
-👋 سلام! من **علی اقبالی** هستم، که با لقب **Kaspian** در دنیای کد شناخته می‌شوم.
-از کودکی رویای ساخت اپلیکیشن داشته‌ام و شور و اشتیاق زیادی برای یادگیری و خلق راهکارهای نوآورانه با **فلاتر** و **پایتون** دارم.
-تجربه‌ام با پایتون و مفاهیم کلیدی توسعه، زمینه‌ساز ورودم به دنیای جذاب توسعه موبایل با فلاتر شد.
+📱 I'm currently focused on advancing my skills in **Flutter** and **FastAPI**, creating beautiful and efficient user interfaces for various platforms.
 
-📱 اکنون با تمرکز و علاقه در حال پیشرفت در (Flutter) و (FastApi) هستم و به ساخت رابط‌های کاربری زیبا و کارآمد برای پلتفرم‌های مختلف می‌پردازم.
+## 🛠️ Technical Skills
 
-**🛠️ مهارت‌های من:**
+* **Programming Languages:** `Python`, `Dart`
+* **Frameworks & Libraries:** `Flutter`, `FastAPI`, `KivyMD`
+* **Core Flutter Concepts:** `REST APIs`, `State Management (Getx)`, `Lifecycle Management`, `Material Design`, `Data Handling`, `Efficient Storage`, `UI/UX`, `Database Integration`, `Asynchronous Data Fetching`
+* **Core FastAPI Concepts:** `REST APIs`, `Pydantic`, `Routers`, `Query Param/Path Param`, `Data Handling`, `Alembic`, `SQL Alchemy`, `Database Integration`, `Asynchronous Programming`
+* **Development Tools:** `Git`, `GitHub`
 
-* **زبان‌های برنامه‌نویسی:** `Python`, `Dart`
-* **فریمورک‌ها و کتابخانه‌ها:** `Flutter`, `KivyMD` , `FastApi`
-* **مفاهیم کلیدی (Flutter) :** `REST APIs`, `State Management(Getx)`, `Lifecycle Management`, `Material Design`, `Data Handling`, `Efficient Storage`, `UI/UX`, `Database Integration`, `Asynchronous Data Fetching`
-* * **مفاهیم کلیدی (FastApi) :** `REST APIs`, `Pydantic`, `Routers`, `Qeury param/Path param`, `Data Handling`, `alembic`, `Sql Alchemy`, `Database Integration`, `Asynchronous `
-* **ابزارهای توسعه:** `Git`
+## 🚀 Recent Projects
 
-**🚀 پروژه‌های اخیر:**
+Check out examples of my work in my repositories at [https://github.com/Kaspian021](https://github.com/Kaspian021)
 
-برای دیدن نمونه‌هایی از کارهایم می‌توانید به ریپازیتوری‌های من در [https://github.com/Kaspian021](https://github.com/Kaspian021) مراجعه کنید.
+## 📞 Connect With Me
 
-**🔗 ارتباط:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikaspian021)
+[![Email](https://img.shields.io/badge/Email-kaspianlive17%40gmail.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaspianlive17@gmail.com)
 
-[![لینکدین](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alikaspian021)
-[![ایمیل](https://img.shields.io/badge/Email-YourEmail%40example.com-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[kaspianlive17@gmail.com])
-
-**📊 آمار گیت‌هاب Kaspian:**
+## 📊 GitHub Statistics
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kaspian021&show_icons=true&theme=material-palenight)](https://github.com/Kaspian021)
 
